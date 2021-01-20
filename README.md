@@ -1,6 +1,6 @@
 # spring-2021-CSA
 
-# General Repo for AP Computer Science A, Franklin D. Roosevelt High School
+# General Repo for AP Computer Science A, FDR High School
 Primary organizational hub for those enrolled in this course.
 
 ## Organization of this Repo
