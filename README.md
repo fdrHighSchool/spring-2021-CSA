@@ -9,12 +9,13 @@ Primary organizational hub for those enrolled in this course.
 - `ap-exams` directory contains free-response questions from prior AP Exams.
 
 ## Discussion
-- Daily Zoom sessions (8:00 - 9:13)
-- "Office hours"/"study hall": 
+- Daily Zoom sessions: https://us02web.zoom.us/j/85634895225?pwd=WFg5U3NxajdITGlKM2FVeWRMSjZXUT09
+    - M - F, 8:30 - 9:13
+- "Office hours"/"study hall": https://us02web.zoom.us/j/82065488048?pwd=bzYrc1RNUGQxbnE0WlZMWWFzQmN5UT09
     - Most Mondays, Tuesdays - Fridays ~2:15 - 3:00
     - Ideal time to ask specific questions or get 1-on-1 feedback
 - Slack: https://join.slack.com/t/fdrcsa/shared_invite/zt-l7i1ldas-gt_beya73tGQP1dapW6BkQ
-  - real-time chat during live sessions
+  - Real-time chat during live sessions
 
 ## Text
 - Building Java Programs (Reges & Stepp):
