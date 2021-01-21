@@ -1,6 +1,7 @@
 # spring-2021-CSA
 
-# General Repo for AP Computer Science A, FDR High School
+# General Repo for AP Computer Science A
+### FDR High School
 Primary organizational hub for those enrolled in this course.
 
 ## Organization of this Repo
@@ -31,25 +32,25 @@ Primary organizational hub for those enrolled in this course.
 (Dont' have one yet? Follow this link to initialize yours: https://classroom.github.com/a/1NKy6_fV)
 - [Alan]()
 - [Bryant]()
-- [Eric]()
-- [Jian Hua]()
-- [Jin Xin]()
-- [Jing Lun]()
-- [Joshua]()
-- [Kyler]()
+- [Eric](https://github.com/fdrHighSchool/spring-2021-work-EricLam414)
+- [Jian Hua](https://github.com/fdrHighSchool/spring-2021-work-Metails)
+- [Jin Xin](https://github.com/fdrHighSchool/spring-2021-work-pixel-sky)
+- [Jing Lun](https://github.com/fdrHighSchool/spring-2021-work-JinglunMa24)
+- [Joshua](https://github.com/fdrHighSchool/spring-2021-work-JoshuaSiganur)
+- [Kyler](https://github.com/fdrHighSchool/spring-2021-work-LippieVIII)
 - [Maksim]()
-- [Max]()
-- [Mehmet]()
+- [Max](https://github.com/fdrHighSchool/spring-2021-work-Mdroituno)
+- [Mehmet](https://github.com/fdrHighSchool/spring-2021-work-MEHSOYY)
 - [Mohammed]()
-- [Murat]()
-- [Nicholas]()
+- [Murat](https://github.com/fdrHighSchool/spring-2021-work-cubamaster)
+- [Nicholas](https://github.com/fdrHighSchool/spring-2021-work-NicholasD7)
 - [Ritchy]()
-- [Serhiy]()
+- [Serhiy](https://github.com/fdrHighSchool/spring-2021-work-Serhiy21)
 - [Shehryar]()
-- [Thomas]()
+- [Thomas](https://github.com/fdrHighSchool/spring-2021-work-Blazin0)
 - [Tina]()
-- [Wai]()
-- [Wilson]()
-- [Xin Bao]()
+- [Wai](https://github.com/fdrHighSchool/spring-2021-work-Jupiternerd)
+- [Wilson](https://github.com/fdrHighSchool/spring-2021-work-wilsonliufdr)
+- [Xin Bao](https://github.com/fdrHighSchool/spring-2021-work-XinBao321)
 - [Yang]()
-- [Zhi Feng]()
+- [Zhi Feng](https://github.com/fdrHighSchool/spring-2021-work-zhifeng29)
