@@ -31,7 +31,7 @@ Primary organizational hub for those enrolled in this course.
 ## Our work repos
 (Dont' have one yet? Follow this link to initialize yours: https://classroom.github.com/a/1NKy6_fV)
 - [Alan]()
-- [Bryant]()
+- [Bryant](https://github.com/fdrHighSchool/spring-2021-work-Blua2)
 - [Eric](https://github.com/fdrHighSchool/spring-2021-work-EricLam414)
 - [Jian Hua](https://github.com/fdrHighSchool/spring-2021-work-Metails)
 - [Jin Xin](https://github.com/fdrHighSchool/spring-2021-work-pixel-sky)
@@ -48,7 +48,7 @@ Primary organizational hub for those enrolled in this course.
 - [Serhiy](https://github.com/fdrHighSchool/spring-2021-work-Serhiy21)
 - [Shehryar]()
 - [Thomas](https://github.com/fdrHighSchool/spring-2021-work-Blazin0)
-- [Tina]()
+- [Tina](https://github.com/fdrHighSchool/spring-2021-work-Tinali13)
 - [Wai](https://github.com/fdrHighSchool/spring-2021-work-Jupiternerd)
 - [Wilson](https://github.com/fdrHighSchool/spring-2021-work-wilsonliufdr)
 - [Xin Bao](https://github.com/fdrHighSchool/spring-2021-work-XinBao321)
