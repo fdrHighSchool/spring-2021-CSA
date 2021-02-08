@@ -38,7 +38,7 @@ Primary organizational hub for those enrolled in this course.
 - [Jing Lun](https://github.com/fdrHighSchool/spring-2021-work-JinglunMa24)
 - [Joshua](https://github.com/fdrHighSchool/spring-2021-work-JoshuaSiganur)
 - [Kyler](https://github.com/fdrHighSchool/spring-2021-work-LippieVIII)
-- [Maksim]()
+- [Maksim](https://github.com/fdrHighSchool/spring-2021-work-maksimgarcia)
 - [Max](https://github.com/fdrHighSchool/spring-2021-work-Mdroituno)
 - [Mehmet](https://github.com/fdrHighSchool/spring-2021-work-MEHSOYY)
 - [Mohammed](https://github.com/fdrHighSchool/spring-2021-work-Mohammedali3)
