@@ -21,7 +21,7 @@ public class Bands {
     list2.add("Imagine Dragons"); //odd
     list2.add("Gorillaz"); //even
 
-    removeEvenLength(list2);
+    removeEvenLengthReverse(list2);
     System.out.println(list2);
 
   }// end main method
@@ -34,8 +34,21 @@ public class Bands {
       if (list.get(i).length() % 2 == 0) {
         // if yes, then remove
         list.remove(i);
+        // NOTE: we need to decrement i to avoid skipping
+        i--;
       }// end if statement
     }// end for loop
   }// end removeEvenLength method
+
+  public static void removeEvenLengthReverse(ArrayList<String> list) {
+    // iterate from the end to the front
+    for (int i = list.size() - 1; i >= 0; i--) {
+      // condition (is the length of the individual String even?)
+      if (list.get(i).length() % 2 == 0) {
+        // if yes, then remove
+        list.remove(i);
+      }// end if statement
+    }// end for loop
+  }// end removeEvenLengthReverse method
 
 }// end class
